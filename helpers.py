@@ -9,10 +9,10 @@ def totalload(df, start_date, end_date):
     df : pandas.DataFrame
         DataFrame containing the load data with 'name', 'datetime', and 'avgvalue' columns
     start_date : str
-        Start date in 'YYYY-MM-DD' format
+        Start date in 'YYYY-MM-DD HHam/pm' format
     end_date : str
-        End date in 'YYYY-MM-DD' format
-        
+        End date in 'YYYY-MM-DD HHam/pm' format
+
     Returns:
     --------
     pandas.DataFrame
@@ -40,8 +40,8 @@ def totalload(df, start_date, end_date):
     # Filter by date range and company names, then aggregate
     filtered_df = df[
         (df['name'].isin(list(selected_names.values())[:-1])) & 
-        (df['datetime'].dt.date >= pd.to_datetime(start_date).date()) & 
-        (df['datetime'].dt.date <= pd.to_datetime(end_date).date())
+        (df['datetime'] >= pd.to_datetime(start_date)) & 
+        (df['datetime'] <= pd.to_datetime(end_date))
     ]
     print("zones added: ", filtered_df['name'].unique())
     # Group by datetime and aggregate
