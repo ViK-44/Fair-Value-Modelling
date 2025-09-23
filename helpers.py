@@ -1,4 +1,10 @@
 import pandas as pd
+import pytz
+def utc_to_local(utc_dt, timezone_str):
+    if timezone_str is None:
+        return utc_dt
+    tz = pytz.timezone(timezone_str)
+    return utc_dt.astimezone(tz)
 
 def totalload(df, start_date, end_date):
     """

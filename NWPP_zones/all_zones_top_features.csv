@@ -1,0 +1,361 @@
+Feature,Importance,Zone
+24hrTempHDD_NWPP,0.29737088,"Puget Sound Energy, Inc."
+24hrTempHDD_Yakima,0.13794234,"Puget Sound Energy, Inc."
+temperature_NWPP,0.05373765,"Puget Sound Energy, Inc."
+1WTempHDD_Yakima,0.041127536,"Puget Sound Energy, Inc."
+time,0.039068338,"Puget Sound Energy, Inc."
+24hrTempHDD_Seattle,0.037383668,"Puget Sound Energy, Inc."
+24hrMaxTempDelt_NWPP,0.032264642,"Puget Sound Energy, Inc."
+1WTempHDD_Reno,0.030914254,"Puget Sound Energy, Inc."
+1WTempCDD_Reno,0.02960359,"Puget Sound Energy, Inc."
+temperature_Vancouver,0.024389833,"Puget Sound Energy, Inc."
+temperature_Seattle,0.0235379,"Puget Sound Energy, Inc."
+24hrMaxTempDelt_Spokane,0.015457487,"Puget Sound Energy, Inc."
+24hrTempHDD_Vancouver,0.01334498,"Puget Sound Energy, Inc."
+1WTempCDD_Yakima,0.010995388,"Puget Sound Energy, Inc."
+temperature_Spokane,0.010114017,"Puget Sound Energy, Inc."
+day,0.008981792,"Puget Sound Energy, Inc."
+temperature_Klamath Falls,0.008499455,"Puget Sound Energy, Inc."
+1WTempHDD_Salt Lake City,0.008488354,"Puget Sound Energy, Inc."
+temperature_Portland,0.007995339,"Puget Sound Energy, Inc."
+1WMaxTempDelt_Vancouver,0.007224874,"Puget Sound Energy, Inc."
+24hrTempCDD_NWPP,0.0070889606,"Puget Sound Energy, Inc."
+24hrTempCDD_Medford,0.006809756,"Puget Sound Energy, Inc."
+dewpoint_NWPP,0.0064363857,"Puget Sound Energy, Inc."
+year,0.0061442065,"Puget Sound Energy, Inc."
+cloudCover_Eugene,0.005818216,"Puget Sound Energy, Inc."
+24hrMaxTempDelt_Seattle,0.005571253,"Puget Sound Energy, Inc."
+temperature_Yakima,0.0051662447,"Puget Sound Energy, Inc."
+1WMaxTempDelt_Yakima,0.0048486795,"Puget Sound Energy, Inc."
+dewpoint_Seattle,0.004221202,"Puget Sound Energy, Inc."
+1WMaxTempDelt_Spokane,0.004073037,"Puget Sound Energy, Inc."
+24hrTempCDD_Tacoma,0.0034725287,"Puget Sound Energy, Inc."
+24hrTempCDD_Vancouver,0.0033464513,"Puget Sound Energy, Inc."
+temperature_Eugene,0.003123967,"Puget Sound Energy, Inc."
+1WMaxTempDelt_Seattle,0.0031189506,"Puget Sound Energy, Inc."
+dewpoint_Tacoma,0.002570177,"Puget Sound Energy, Inc."
+1WTempHDD_Vancouver,0.0025351911,"Puget Sound Energy, Inc."
+temperature_Tacoma,0.0025187656,"Puget Sound Energy, Inc."
+temperature_Medford,0.0021926898,"Puget Sound Energy, Inc."
+24hrMaxTempDelt_Pendleton,0.002124689,"Puget Sound Energy, Inc."
+temperature_Reno,0.0020079087,"Puget Sound Energy, Inc."
+24hrTempCDD_Yakima,0.0019165792,"Puget Sound Energy, Inc."
+dewpoint_Yakima,0.0018242395,"Puget Sound Energy, Inc."
+1WMaxTempDelt_Reno,0.0018147293,"Puget Sound Energy, Inc."
+month,0.001778616,"Puget Sound Energy, Inc."
+24hrTempCDD_Portland,0.001770928,"Puget Sound Energy, Inc."
+24hrTempHDD_NWPP,0.2199508,BPA
+24hrTempHDD_Portland,0.16185173,BPA
+temperature_NWPP,0.04811676,BPA
+time,0.04356304,BPA
+24hrTempHDD_Seattle,0.037341096,BPA
+temperature_Spokane,0.036721434,BPA
+24hrMaxTempDelt_NWPP,0.034811575,BPA
+1WTempHDD_Yakima,0.03287129,BPA
+24hrMaxTempDelt_Spokane,0.030578239,BPA
+1WMaxTempDelt_Reno,0.030241892,BPA
+1WTempHDD_Vancouver,0.028318653,BPA
+temperature_Portland,0.022958685,BPA
+temperature_Seattle,0.022307714,BPA
+day,0.01743989,BPA
+year,0.014283335,BPA
+1WTempCDD_Reno,0.014114878,BPA
+1WMaxTempDelt_Pendleton,0.011410455,BPA
+24hrTempCDD_Yakima,0.009953423,BPA
+24hrTempCDD_NWPP,0.008623369,BPA
+month,0.00814242,BPA
+1WMaxTempDelt_Portland,0.006340356,BPA
+temperature_Yakima,0.0057578473,BPA
+temperature_Medford,0.0056187706,BPA
+1WMaxTempDelt_Vancouver,0.0053776214,BPA
+windSpeed_Portland,0.0050884197,BPA
+24hrTempHDD_Yakima,0.0045345947,BPA
+24hrTempCDD_Portland,0.004459571,BPA
+24hrTempCDD_Pendleton,0.0044130846,BPA
+1WTempCDD_Portland,0.004019676,BPA
+dewpoint_Seattle,0.0038966064,BPA
+temperature_Eugene,0.0034497993,BPA
+24hrMaxTempDelt_Klamath Falls,0.0033145924,BPA
+windSpeed_NWPP,0.0032408803,BPA
+24hrMaxTempDelt_Salt Lake City,0.00259822,BPA
+24hrTempHDD_Eugene,0.0024988027,BPA
+1WTempHDD_Salt Lake City,0.0021491132,BPA
+24hrTempHDD_Klamath Falls,0.0020292536,BPA
+windDirection_Seattle,0.0019969936,BPA
+cloudCover_Portland,0.0019000189,BPA
+1WTempHDD_Tacoma,0.0018126196,BPA
+1WTempHDD_Boise,0.0017836427,BPA
+24hrMaxTempDelt_Tacoma,0.0017516853,BPA
+1WTempCDD_Salt Lake City,0.001737292,BPA
+cloudCover_NWPP,0.001693985,BPA
+1WMaxTempDelt_Tacoma,0.0016563624,BPA
+24hrMaxTempDelt_Pendleton,0.16640918,Avista Corporation
+24hrMaxTempDelt_Boise,0.10224338,Avista Corporation
+24hrTempHDD_NWPP,0.10171313,Avista Corporation
+1WMaxTempDelt_Boise,0.06782915,Avista Corporation
+temperature_Spokane,0.052356657,Avista Corporation
+time,0.051837005,Avista Corporation
+24hrTempHDD_Vancouver,0.0352621,Avista Corporation
+24hrTempHDD_Spokane,0.03456996,Avista Corporation
+24hrTempHDD_Portland,0.029234072,Avista Corporation
+temperature_NWPP,0.0265894,Avista Corporation
+1WTempHDD_Yakima,0.025483076,Avista Corporation
+1WMaxTempDelt_Salt Lake City,0.022294287,Avista Corporation
+1WMaxTempDelt_Vancouver,0.019207962,Avista Corporation
+24hrMaxTempDelt_Salt Lake City,0.018927533,Avista Corporation
+24hrMaxTempDelt_Spokane,0.0169821,Avista Corporation
+day,0.014568484,Avista Corporation
+1WTempHDD_Salt Lake City,0.01155462,Avista Corporation
+1WTempHDD_Spokane,0.011314308,Avista Corporation
+temperature_Yakima,0.011154223,Avista Corporation
+1WTempHDD_Billings,0.010808624,Avista Corporation
+1WTempHDD_Portland,0.010731548,Avista Corporation
+24hrTempHDD_Yakima,0.010689703,Avista Corporation
+1WTempCDD_Yakima,0.0075091184,Avista Corporation
+1WMaxTempDelt_Yakima,0.0075025572,Avista Corporation
+temperature_Boise,0.0065223197,Avista Corporation
+1WTempHDD_Vancouver,0.0062793726,Avista Corporation
+1WTempCDD_Spokane,0.0057884636,Avista Corporation
+1WTempHDD_NWPP,0.0048440043,Avista Corporation
+temperature_Klamath Falls,0.0047152704,Avista Corporation
+1WMaxTempDelt_NWPP,0.004552784,Avista Corporation
+temperature_Pendleton,0.004224356,Avista Corporation
+1WMaxTempDelt_Seattle,0.003846887,Avista Corporation
+1WTempCDD_Vancouver,0.0036136762,Avista Corporation
+month,0.0035544408,Avista Corporation
+cloudCover_Eugene,0.0034917055,Avista Corporation
+24hrTempHDD_Pendleton,0.002717881,Avista Corporation
+temperature_Portland,0.002563646,Avista Corporation
+1WTempHDD_Great Falls,0.0022201152,Avista Corporation
+dewpoint_NWPP,0.0021309122,Avista Corporation
+1WTempHDD_Boise,0.002115736,Avista Corporation
+24hrTempCDD_Spokane,0.0020917032,Avista Corporation
+24hrMaxTempDelt_Vancouver,0.0020445676,Avista Corporation
+1WMaxTempDelt_Pendleton,0.0019061845,Avista Corporation
+dewpoint_Portland,0.0017514671,Avista Corporation
+windSpeed_Medford,0.0015432922,Avista Corporation
+24hrTempHDD_NWPP,0.22126019,Seattle City Light
+24hrTempHDD_Portland,0.09767696,Seattle City Light
+1WTempHDD_NWPP,0.057138387,Seattle City Light
+1WTempCDD_Reno,0.05617713,Seattle City Light
+time,0.052423533,Seattle City Light
+24hrTempHDD_Yakima,0.048579067,Seattle City Light
+1WTempHDD_Reno,0.044163674,Seattle City Light
+24hrTempHDD_Seattle,0.035967562,Seattle City Light
+24hrMaxTempDelt_NWPP,0.031070335,Seattle City Light
+temperature_Seattle,0.029147912,Seattle City Light
+temperature_NWPP,0.02766823,Seattle City Light
+1WTempCDD_Medford,0.023704005,Seattle City Light
+1WMaxTempDelt_Yakima,0.022109699,Seattle City Light
+1WTempHDD_Yakima,0.018005017,Seattle City Light
+day,0.017657826,Seattle City Light
+1WMaxTempDelt_Spokane,0.014823729,Seattle City Light
+1WMaxTempDelt_Vancouver,0.012363965,Seattle City Light
+windSpeed_NWPP,0.011404669,Seattle City Light
+1WTempCDD_Eugene,0.010675244,Seattle City Light
+24hrMaxTempDelt_Seattle,0.010623955,Seattle City Light
+year,0.0076861936,Seattle City Light
+temperature_Tacoma,0.007608265,Seattle City Light
+1WMaxTempDelt_Seattle,0.007242565,Seattle City Light
+temperature_Vancouver,0.0064467927,Seattle City Light
+1WTempHDD_Vancouver,0.0059781084,Seattle City Light
+24hrTempHDD_Vancouver,0.004786934,Seattle City Light
+temperature_Spokane,0.0046960427,Seattle City Light
+1WTempCDD_Klamath Falls,0.0042847097,Seattle City Light
+1WMaxTempDelt_Reno,0.00388388,Seattle City Light
+temperature_Klamath Falls,0.003383762,Seattle City Light
+dewpoint_Seattle,0.0033030442,Seattle City Light
+cloudCover_Eugene,0.0029423283,Seattle City Light
+24hrMaxTempDelt_Portland,0.0025910677,Seattle City Light
+month,0.0025271745,Seattle City Light
+24hrTempCDD_Portland,0.0024265612,Seattle City Light
+temperature_Reno,0.0023653072,Seattle City Light
+temperature_Eugene,0.0022555694,Seattle City Light
+temperature_Yakima,0.0022535322,Seattle City Light
+1WTempHDD_Billings,0.0021466003,Seattle City Light
+dewpoint_Yakima,0.002130801,Seattle City Light
+cloudCover_NWPP,0.002114461,Seattle City Light
+24hrTempCDD_Vancouver,0.0020443506,Seattle City Light
+cloudCover_Seattle,0.0020210512,Seattle City Light
+temperature_Portland,0.0017118535,Seattle City Light
+temperature_Medford,0.0017099525,Seattle City Light
+24hrMaxTempDelt_Pendleton,0.20060244,PACW-TAC
+24hrTempHDD_NWPP,0.11384852,PACW-TAC
+temperature_NWPP,0.07110502,PACW-TAC
+time,0.049958296,PACW-TAC
+temperature_Medford,0.038228575,PACW-TAC
+24hrTempHDD_Portland,0.036331758,PACW-TAC
+1WMaxTempDelt_Boise,0.035189297,PACW-TAC
+temperature_Spokane,0.034298707,PACW-TAC
+24hrMaxTempDelt_Boise,0.03288611,PACW-TAC
+temperature_Portland,0.029040603,PACW-TAC
+24hrMaxTempDelt_Portland,0.024261776,PACW-TAC
+1WMaxTempDelt_Medford,0.023818668,PACW-TAC
+day,0.023395162,PACW-TAC
+1WMaxTempDelt_Salt Lake City,0.021806588,PACW-TAC
+24hrTempHDD_Eugene,0.013095907,PACW-TAC
+1WTempHDD_Yakima,0.011596376,PACW-TAC
+temperature_Yakima,0.010189358,PACW-TAC
+24hrMaxTempDelt_NWPP,0.010157722,PACW-TAC
+24hrMaxTempDelt_Salt Lake City,0.010082283,PACW-TAC
+24hrMaxTempDelt_Spokane,0.009459527,PACW-TAC
+1WTempCDD_Pendleton,0.009076789,PACW-TAC
+1WTempCDD_Eugene,0.007861718,PACW-TAC
+year,0.0077971993,PACW-TAC
+24hrMaxTempDelt_Reno,0.0064415787,PACW-TAC
+cloudCover_Eugene,0.0063592126,PACW-TAC
+1WTempCDD_Salt Lake City,0.006227946,PACW-TAC
+1WMaxTempDelt_Portland,0.0061892606,PACW-TAC
+temperature_Eugene,0.0059988406,PACW-TAC
+temperature_Pendleton,0.005757173,PACW-TAC
+temperature_Seattle,0.005571004,PACW-TAC
+24hrTempCDD_Pendleton,0.005294734,PACW-TAC
+temperature_Klamath Falls,0.0051295557,PACW-TAC
+1WTempHDD_Reno,0.004109751,PACW-TAC
+24hrTempHDD_Medford,0.0038566792,PACW-TAC
+1WTempHDD_Vancouver,0.0038251237,PACW-TAC
+temperature_Boise,0.0034715931,PACW-TAC
+1WMaxTempDelt_NWPP,0.0032719744,PACW-TAC
+24hrTempHDD_Yakima,0.003269802,PACW-TAC
+month,0.003134648,PACW-TAC
+1WTempHDD_NWPP,0.0029563613,PACW-TAC
+1WTempHDD_Salt Lake City,0.0027616594,PACW-TAC
+1WTempCDD_Yakima,0.0025365148,PACW-TAC
+24hrTempCDD_Medford,0.0025300458,PACW-TAC
+1WTempHDD_Seattle,0.0024068244,PACW-TAC
+1WMaxTempDelt_Reno,0.0023987172,PACW-TAC
+temperature_Boise,0.17016557,Idaho Power Company
+temperature_Salt Lake City,0.15250038,Idaho Power Company
+temperature_NWPP,0.13285203,Idaho Power Company
+1WTempCDD_Salt Lake City,0.048603274,Idaho Power Company
+temperature_Spokane,0.03477834,Idaho Power Company
+24hrTempCDD_Salt Lake City,0.030546714,Idaho Power Company
+24hrTempHDD_Boise,0.029215,Idaho Power Company
+1WTempHDD_Boise,0.027655736,Idaho Power Company
+24hrTempHDD_Salt Lake City,0.024497192,Idaho Power Company
+24hrTempCDD_Boise,0.022331323,Idaho Power Company
+24hrTempHDD_Reno,0.021328768,Idaho Power Company
+1WTempCDD_Reno,0.019701801,Idaho Power Company
+24hrTempHDD_NWPP,0.015391851,Idaho Power Company
+time,0.014586386,Idaho Power Company
+temperature_Pendleton,0.013092466,Idaho Power Company
+month,0.0116518615,Idaho Power Company
+24hrMaxTempDelt_Boise,0.010632371,Idaho Power Company
+1WTempHDD_Klamath Falls,0.010322443,Idaho Power Company
+1WTempHDD_NWPP,0.010249718,Idaho Power Company
+1WTempHDD_Reno,0.008458869,Idaho Power Company
+24hrTempCDD_Reno,0.008222069,Idaho Power Company
+24hrTempHDD_Yakima,0.008128098,Idaho Power Company
+24hrTempHDD_Spokane,0.0076546576,Idaho Power Company
+1WTempHDD_Yakima,0.0074995854,Idaho Power Company
+day,0.0070702485,Idaho Power Company
+1WTempHDD_Salt Lake City,0.006778748,Idaho Power Company
+temperature_Yakima,0.0048193517,Idaho Power Company
+1WMaxTempDelt_Salt Lake City,0.0043142377,Idaho Power Company
+temperature_Klamath Falls,0.0041518756,Idaho Power Company
+1WTempCDD_Vancouver,0.003629915,Idaho Power Company
+1WTempCDD_Spokane,0.003555327,Idaho Power Company
+1WTempHDD_Medford,0.0034688497,Idaho Power Company
+1WTempHDD_Vancouver,0.0033375267,Idaho Power Company
+1WTempCDD_Klamath Falls,0.0033188118,Idaho Power Company
+1WTempHDD_Spokane,0.003284595,Idaho Power Company
+year,0.0032160191,Idaho Power Company
+24hrTempCDD_NWPP,0.0031038197,Idaho Power Company
+24hrTempCDD_Pendleton,0.002743505,Idaho Power Company
+temperature_Reno,0.0027177525,Idaho Power Company
+windSpeed_Medford,0.002692228,Idaho Power Company
+cloudCover_Eugene,0.0025907115,Idaho Power Company
+24hrMaxTempDelt_NWPP,0.0024110696,Idaho Power Company
+1WMaxTempDelt_Vancouver,0.0024064328,Idaho Power Company
+1WMaxTempDelt_Reno,0.0024018935,Idaho Power Company
+1WMaxTempDelt_Yakima,0.0023381906,Idaho Power Company
+24hrMaxTempDelt_Portland,0.21307373,Portland General Electric Company
+24hrMaxTempDelt_NWPP,0.08076831,Portland General Electric Company
+24hrTempHDD_NWPP,0.07903828,Portland General Electric Company
+time,0.0750826,Portland General Electric Company
+temperature_Portland,0.067887634,Portland General Electric Company
+temperature_NWPP,0.059788246,Portland General Electric Company
+24hrMaxTempDelt_Pendleton,0.030951133,Portland General Electric Company
+24hrTempHDD_Portland,0.030909512,Portland General Electric Company
+1WMaxTempDelt_Boise,0.026768979,Portland General Electric Company
+day,0.024903733,Portland General Electric Company
+1WTempHDD_Yakima,0.01862664,Portland General Electric Company
+24hrTempHDD_Spokane,0.010027098,Portland General Electric Company
+1WTempHDD_Boise,0.009694066,Portland General Electric Company
+1WTempCDD_Portland,0.009552946,Portland General Electric Company
+1WMaxTempDelt_Reno,0.009238705,Portland General Electric Company
+temperature_Medford,0.008895215,Portland General Electric Company
+24hrTempCDD_Eugene,0.007791193,Portland General Electric Company
+1WTempCDD_Vancouver,0.007722462,Portland General Electric Company
+24hrTempCDD_NWPP,0.0062448205,Portland General Electric Company
+temperature_Eugene,0.006198299,Portland General Electric Company
+cloudCover_Eugene,0.006091731,Portland General Electric Company
+1WTempHDD_Salt Lake City,0.005947741,Portland General Electric Company
+1WTempCDD_Medford,0.0059114005,Portland General Electric Company
+1WMaxTempDelt_Yakima,0.00589751,Portland General Electric Company
+month,0.0058591124,Portland General Electric Company
+24hrTempCDD_Portland,0.0058237948,Portland General Electric Company
+temperature_Klamath Falls,0.0054444335,Portland General Electric Company
+temperature_Spokane,0.005422509,Portland General Electric Company
+1WMaxTempDelt_Medford,0.0052184477,Portland General Electric Company
+cloudCover_Portland,0.005207477,Portland General Electric Company
+temperature_Seattle,0.005039326,Portland General Electric Company
+dewpoint_Portland,0.004732347,Portland General Electric Company
+24hrTempHDD_Seattle,0.004531444,Portland General Electric Company
+year,0.0041822596,Portland General Electric Company
+temperature_Yakima,0.003999052,Portland General Electric Company
+24hrTempHDD_Yakima,0.0038703952,Portland General Electric Company
+1WTempCDD_Eugene,0.0038109163,Portland General Electric Company
+1WTempCDD_Tacoma,0.0035338444,Portland General Electric Company
+24hrTempCDD_Medford,0.0032629222,Portland General Electric Company
+24hrTempCDD_Great Falls,0.0029069677,Portland General Electric Company
+1WTempCDD_Reno,0.0029039118,Portland General Electric Company
+24hrTempHDD_Eugene,0.0028390577,Portland General Electric Company
+1WMaxTempDelt_Salt Lake City,0.0027511998,Portland General Electric Company
+1WMaxTempDelt_Portland,0.0027284722,Portland General Electric Company
+24hrTempCDD_Tacoma,0.0027046585,Portland General Electric Company
+24hrTempHDD_NWPP,0.42398682,"City of Tacoma, Department of Public Utilities"
+24hrTempHDD_Portland,0.15107343,"City of Tacoma, Department of Public Utilities"
+24hrTempHDD_Seattle,0.08090785,"City of Tacoma, Department of Public Utilities"
+time,0.040877543,"City of Tacoma, Department of Public Utilities"
+24hrMaxTempDelt_NWPP,0.039449714,"City of Tacoma, Department of Public Utilities"
+temperature_NWPP,0.029676024,"City of Tacoma, Department of Public Utilities"
+temperature_Seattle,0.023275968,"City of Tacoma, Department of Public Utilities"
+1WMaxTempDelt_Yakima,0.01797427,"City of Tacoma, Department of Public Utilities"
+24hrTempHDD_Vancouver,0.01703282,"City of Tacoma, Department of Public Utilities"
+day,0.014620551,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Yakima,0.011450427,"City of Tacoma, Department of Public Utilities"
+temperature_Tacoma,0.011428441,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Seattle,0.00937161,"City of Tacoma, Department of Public Utilities"
+24hrTempHDD_Tacoma,0.0062590973,"City of Tacoma, Department of Public Utilities"
+24hrTempCDD_NWPP,0.004596729,"City of Tacoma, Department of Public Utilities"
+1WTempCDD_NWPP,0.00339319,"City of Tacoma, Department of Public Utilities"
+temperature_Klamath Falls,0.0033525345,"City of Tacoma, Department of Public Utilities"
+temperature_Portland,0.003124089,"City of Tacoma, Department of Public Utilities"
+24hrTempCDD_Medford,0.003081169,"City of Tacoma, Department of Public Utilities"
+1WTempCDD_Tacoma,0.0030190207,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_NWPP,0.002984143,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Spokane,0.002940039,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Billings,0.002797129,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Salt Lake City,0.0026514283,"City of Tacoma, Department of Public Utilities"
+24hrTempCDD_Eugene,0.0026433421,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Pendleton,0.0024927645,"City of Tacoma, Department of Public Utilities"
+24hrTempCDD_Vancouver,0.0019987195,"City of Tacoma, Department of Public Utilities"
+cloudCover_Eugene,0.0019340968,"City of Tacoma, Department of Public Utilities"
+24hrMaxTempDelt_Seattle,0.0018419288,"City of Tacoma, Department of Public Utilities"
+1WTempCDD_Reno,0.0017715169,"City of Tacoma, Department of Public Utilities"
+24hrTempCDD_Tacoma,0.0017574882,"City of Tacoma, Department of Public Utilities"
+1WTempHDD_Vancouver,0.0017423653,"City of Tacoma, Department of Public Utilities"
+dewpoint_NWPP,0.0017395768,"City of Tacoma, Department of Public Utilities"
+1WTempCDD_Boise,0.0017036485,"City of Tacoma, Department of Public Utilities"
+24hrMaxTempDelt_Pendleton,0.0016503385,"City of Tacoma, Department of Public Utilities"
+1WMaxTempDelt_Reno,0.0015891899,"City of Tacoma, Department of Public Utilities"
+temperature_Yakima,0.001583401,"City of Tacoma, Department of Public Utilities"
+month,0.001546718,"City of Tacoma, Department of Public Utilities"
+1WTempCDD_Yakima,0.0015369578,"City of Tacoma, Department of Public Utilities"
+1WMaxTempDelt_Vancouver,0.0015317843,"City of Tacoma, Department of Public Utilities"
+temperature_Spokane,0.0015267147,"City of Tacoma, Department of Public Utilities"
+dewpoint_Pendleton,0.0014722898,"City of Tacoma, Department of Public Utilities"
+1WTempCDD_Salt Lake City,0.0014689735,"City of Tacoma, Department of Public Utilities"
+1WMaxTempDelt_Salt Lake City,0.0014213577,"City of Tacoma, Department of Public Utilities"
+temperature_Eugene,0.0013825778,"City of Tacoma, Department of Public Utilities"

@@ -1,0 +1,478 @@
+Feature,Importance,Zone
+windChill_NWPP,0.256374,"Puget Sound Energy, Inc."
+windChill_Spokane,0.14502403,"Puget Sound Energy, Inc."
+time,0.08781225,"Puget Sound Energy, Inc."
+windChill_Portland,0.07901227,"Puget Sound Energy, Inc."
+heatIndex_NWPP,0.06093885,"Puget Sound Energy, Inc."
+windChill_Vancouver,0.043228533,"Puget Sound Energy, Inc."
+heatIndex_Vancouver,0.042507764,"Puget Sound Energy, Inc."
+temperature_Seattle,0.029834686,"Puget Sound Energy, Inc."
+heatIndex_Seattle,0.028684478,"Puget Sound Energy, Inc."
+heatIndex_Spokane,0.028368387,"Puget Sound Energy, Inc."
+temperature_Spokane,0.025755133,"Puget Sound Energy, Inc."
+windChill_Seattle,0.016705636,"Puget Sound Energy, Inc."
+temperature_Vancouver,0.013350992,"Puget Sound Energy, Inc."
+day,0.01301542,"Puget Sound Energy, Inc."
+year,0.010518289,"Puget Sound Energy, Inc."
+dewpoint_NWPP,0.008333435,"Puget Sound Energy, Inc."
+heatIndex_Portland,0.005949146,"Puget Sound Energy, Inc."
+month,0.005818534,"Puget Sound Energy, Inc."
+dewpoint_Billings,0.0052657775,"Puget Sound Energy, Inc."
+heatIndex_Yakima,0.004559735,"Puget Sound Energy, Inc."
+heatIndex_Boise,0.004421835,"Puget Sound Energy, Inc."
+temperature_Medford,0.003272853,"Puget Sound Energy, Inc."
+windChill_Salt Lake City,0.0028717665,"Puget Sound Energy, Inc."
+weighted_hdd_NWPP,0.002813623,"Puget Sound Energy, Inc."
+heatIndex_Tacoma,0.002646574,"Puget Sound Energy, Inc."
+temperature_Yakima,0.0026317178,"Puget Sound Energy, Inc."
+heatIndex_Pendleton,0.0022580915,"Puget Sound Energy, Inc."
+dewpoint_Pendleton,0.0018897649,"Puget Sound Energy, Inc."
+dewpoint_Vancouver,0.0018620809,"Puget Sound Energy, Inc."
+temperature_avg_NWPP,0.0017688877,"Puget Sound Energy, Inc."
+relativeHumidity_NWPP,0.0016917192,"Puget Sound Energy, Inc."
+dewpoint_Portland,0.0016568565,"Puget Sound Energy, Inc."
+relativeHumidity_Spokane,0.0016432205,"Puget Sound Energy, Inc."
+dewpoint_Seattle,0.0015598997,"Puget Sound Energy, Inc."
+temperature_min_Seattle,0.0012952813,"Puget Sound Energy, Inc."
+temperature_avg_Tacoma,0.001186034,"Puget Sound Energy, Inc."
+cloudCover_Seattle,0.0011344405,"Puget Sound Energy, Inc."
+windChill_Reno,0.0011306416,"Puget Sound Energy, Inc."
+cloudCover_NWPP,0.0011111668,"Puget Sound Energy, Inc."
+temperature_Tacoma,0.0010708966,"Puget Sound Energy, Inc."
+relativeHumidity_Yakima,0.0010408943,"Puget Sound Energy, Inc."
+date,0.0009950201,"Puget Sound Energy, Inc."
+temperature_Pendleton,0.00092337705,"Puget Sound Energy, Inc."
+windChill_Pendleton,0.00087457575,"Puget Sound Energy, Inc."
+dewpoint_Klamath Falls,0.00085047015,"Puget Sound Energy, Inc."
+temperature_avg_Vancouver,0.00081449904,"Puget Sound Energy, Inc."
+dewpoint_Medford,0.00075568905,"Puget Sound Energy, Inc."
+temperature_NWPP,0.00074253144,"Puget Sound Energy, Inc."
+dewpoint_Salt Lake City,0.0007258257,"Puget Sound Energy, Inc."
+relativeHumidity_Reno,0.0007033297,"Puget Sound Energy, Inc."
+cloudCover_Portland,0.0006933044,"Puget Sound Energy, Inc."
+temperature_min_Tacoma,0.0006911054,"Puget Sound Energy, Inc."
+cloudCover_Tacoma,0.0006530597,"Puget Sound Energy, Inc."
+windChill_Portland,0.24654578,BPA
+windChill_NWPP,0.18080485,BPA
+temperature_Spokane,0.095087856,BPA
+time,0.08419759,BPA
+heatIndex_NWPP,0.071269915,BPA
+temperature_Boise,0.04859166,BPA
+heatIndex_Spokane,0.028896566,BPA
+temperature_NWPP,0.027569642,BPA
+windChill_Spokane,0.0258201,BPA
+day,0.016913045,BPA
+heatIndex_Seattle,0.015224735,BPA
+heatIndex_Portland,0.0115099335,BPA
+temperature_Portland,0.01124643,BPA
+temperature_Yakima,0.010053169,BPA
+year,0.010013985,BPA
+month,0.009662301,BPA
+temperature_min_Spokane,0.004974468,BPA
+windChill_Seattle,0.0046138396,BPA
+heatIndex_Yakima,0.0036938996,BPA
+heatIndex_Medford,0.0032752804,BPA
+dewpoint_NWPP,0.0031854312,BPA
+heatIndex_Vancouver,0.0031075769,BPA
+heatIndex_Eugene,0.002782554,BPA
+temperature_min_Seattle,0.0026894356,BPA
+heatIndex_Boise,0.0024935405,BPA
+temperature_min_Klamath Falls,0.0024235705,BPA
+temperature_Seattle,0.0023661153,BPA
+heatIndex_Pendleton,0.002342215,BPA
+temperature_Vancouver,0.0022709786,BPA
+temperature_avg_Spokane,0.002110991,BPA
+cloudCover_Boise,0.0020447534,BPA
+windChill_Medford,0.0017507131,BPA
+cloudCover_NWPP,0.0017431681,BPA
+dewpoint_Portland,0.001734913,BPA
+temperature_avg_Great Falls,0.0016739098,BPA
+dewpoint_Pendleton,0.0014657117,BPA
+cloudCover_Spokane,0.0014443514,BPA
+temperature_Reno,0.0014376794,BPA
+temperature_min_Medford,0.001214025,BPA
+cloudCover_Eugene,0.0011189975,BPA
+date,0.001073547,BPA
+windSpeed_NWPP,0.0010362281,BPA
+dewpoint_Vancouver,0.0009662657,BPA
+dewpoint_Yakima,0.0009628513,BPA
+temperature_Pendleton,0.0008475614,BPA
+temperature_Eugene,0.00082731654,BPA
+relativeHumidity_Spokane,0.0008159486,BPA
+heatIndex_Salt Lake City,0.0007901664,BPA
+temperature_Salt Lake City,0.000754127,BPA
+relativeHumidity_Tacoma,0.0007248509,BPA
+dewpoint_Tacoma,0.0006553141,BPA
+heatIndex_Tacoma,0.000653104,BPA
+dewpoint_Reno,0.0006488133,BPA
+temperature_Spokane,0.21937211,Avista Corporation
+windChill_NWPP,0.14406557,Avista Corporation
+heatIndex_Spokane,0.12181261,Avista Corporation
+time,0.07979523,Avista Corporation
+heatIndex_Boise,0.05715616,Avista Corporation
+windChill_Spokane,0.047311313,Avista Corporation
+windChill_Portland,0.038171545,Avista Corporation
+windChill_Salt Lake City,0.027457157,Avista Corporation
+heatIndex_Yakima,0.021198897,Avista Corporation
+day,0.016587911,Avista Corporation
+heatIndex_Pendleton,0.015532605,Avista Corporation
+cloudCover_Eugene,0.014208155,Avista Corporation
+heatIndex_Salt Lake City,0.0140179135,Avista Corporation
+month,0.013409272,Avista Corporation
+windChill_Boise,0.013333992,Avista Corporation
+heatIndex_NWPP,0.0132044405,Avista Corporation
+relativeHumidity_Tacoma,0.0105513865,Avista Corporation
+temperature_NWPP,0.0069846767,Avista Corporation
+dewpoint_Pendleton,0.005441994,Avista Corporation
+windChill_Vancouver,0.00497683,Avista Corporation
+heatIndex_Great Falls,0.0048802374,Avista Corporation
+dewpoint_NWPP,0.0044968757,Avista Corporation
+heatIndex_Vancouver,0.0040442776,Avista Corporation
+heatIndex_Klamath Falls,0.0037664894,Avista Corporation
+relativeHumidity_NWPP,0.0032825775,Avista Corporation
+temperature_Vancouver,0.0032594139,Avista Corporation
+dewpoint_Yakima,0.00294665,Avista Corporation
+temperature_max_NWPP,0.0027850033,Avista Corporation
+dewpoint_Billings,0.0026895725,Avista Corporation
+temperature_Boise,0.0026589558,Avista Corporation
+cloudCover_Spokane,0.00258878,Avista Corporation
+temperature_min_Spokane,0.0020045638,Avista Corporation
+temperature_Tacoma,0.0016847262,Avista Corporation
+windChill_Billings,0.0016493896,Avista Corporation
+year,0.001568037,Avista Corporation
+temperature_avg_Salt Lake City,0.0015594286,Avista Corporation
+windChill_Medford,0.0015201387,Avista Corporation
+date,0.001440998,Avista Corporation
+temperature_avg_Vancouver,0.001393631,Avista Corporation
+cloudCover_Boise,0.0013844747,Avista Corporation
+temperature_Great Falls,0.0013088348,Avista Corporation
+dewpoint_Salt Lake City,0.0013041282,Avista Corporation
+relativeHumidity_Eugene,0.0012590087,Avista Corporation
+windSpeed_Portland,0.0012565855,Avista Corporation
+temperature_avg_Boise,0.0012296805,Avista Corporation
+heatIndex_Reno,0.0011936313,Avista Corporation
+temperature_Pendleton,0.0011109662,Avista Corporation
+dewpoint_Spokane,0.001087596,Avista Corporation
+relativeHumidity_Medford,0.0010414112,Avista Corporation
+relativeHumidity_Spokane,0.0010389419,Avista Corporation
+dewpoint_Medford,0.0010303778,Avista Corporation
+windChill_Seattle,0.0010262331,Avista Corporation
+temperature_Yakima,0.0010230864,Avista Corporation
+windChill_NWPP,0.24459766,Seattle City Light
+temperature_NWPP,0.09005851,Seattle City Light
+dewpoint_NWPP,0.07765063,Seattle City Light
+time,0.07495429,Seattle City Light
+temperature_Klamath Falls,0.058435716,Seattle City Light
+windChill_Spokane,0.052059114,Seattle City Light
+windChill_Vancouver,0.048903916,Seattle City Light
+heatIndex_NWPP,0.043067876,Seattle City Light
+temperature_Seattle,0.034808878,Seattle City Light
+temperature_Pendleton,0.025839427,Seattle City Light
+temperature_Eugene,0.021494927,Seattle City Light
+dewpoint_Vancouver,0.018236112,Seattle City Light
+day,0.016814036,Seattle City Light
+cloudCover_Eugene,0.013152866,Seattle City Light
+temperature_Yakima,0.011927308,Seattle City Light
+heatIndex_Seattle,0.010943858,Seattle City Light
+windChill_Portland,0.010133224,Seattle City Light
+heatIndex_Vancouver,0.008283343,Seattle City Light
+dewpoint_Billings,0.008031338,Seattle City Light
+cloudCover_Reno,0.007993344,Seattle City Light
+cloudCover_Spokane,0.00792013,Seattle City Light
+heatIndex_Yakima,0.0075129396,Seattle City Light
+year,0.007010466,Seattle City Light
+heatIndex_Spokane,0.0059553753,Seattle City Light
+temperature_Spokane,0.0058154827,Seattle City Light
+windSpeed_NWPP,0.0047349804,Seattle City Light
+month,0.004446505,Seattle City Light
+dewpoint_Pendleton,0.003866991,Seattle City Light
+relativeHumidity_Spokane,0.0033150844,Seattle City Light
+cloudCover_Seattle,0.0032343667,Seattle City Light
+windChill_Seattle,0.0030277444,Seattle City Light
+windChill_Pendleton,0.002691401,Seattle City Light
+temperature_avg_Yakima,0.0025864658,Seattle City Light
+heatIndex_Tacoma,0.0025305958,Seattle City Light
+heatIndex_Reno,0.0020359468,Seattle City Light
+windChill_Salt Lake City,0.0019766213,Seattle City Light
+dewpoint_Portland,0.0017972126,Seattle City Light
+relativeHumidity_Billings,0.0016966353,Seattle City Light
+relativeHumidity_NWPP,0.0015708179,Seattle City Light
+cloudCover_NWPP,0.0015630169,Seattle City Light
+relativeHumidity_Klamath Falls,0.0015476438,Seattle City Light
+heatIndex_Eugene,0.0014498616,Seattle City Light
+heatIndex_Salt Lake City,0.0013818026,Seattle City Light
+relativeHumidity_Yakima,0.0012084808,Seattle City Light
+heatIndex_Portland,0.0011320615,Seattle City Light
+date,0.0011058518,Seattle City Light
+cloudCover_Boise,0.0010639719,Seattle City Light
+relativeHumidity_Reno,0.0009882685,Seattle City Light
+cloudCover_Yakima,0.00096220506,Seattle City Light
+relativeHumidity_Eugene,0.00094281405,Seattle City Light
+relativeHumidity_Medford,0.00090687553,Seattle City Light
+dewpoint_Klamath Falls,0.00090652925,Seattle City Light
+heatIndex_Klamath Falls,0.0008466192,Seattle City Light
+heatIndex_NWPP,0.17641419,PACW-TAC
+windChill_Portland,0.106925234,PACW-TAC
+heatIndex_Boise,0.101387985,PACW-TAC
+time,0.08506961,PACW-TAC
+windChill_NWPP,0.07948861,PACW-TAC
+temperature_Spokane,0.060195494,PACW-TAC
+heatIndex_Medford,0.04318534,PACW-TAC
+temperature_Medford,0.032197546,PACW-TAC
+day,0.03204741,PACW-TAC
+heatIndex_Yakima,0.022373147,PACW-TAC
+windChill_Spokane,0.021753334,PACW-TAC
+temperature_Boise,0.015206316,PACW-TAC
+temperature_Yakima,0.01484861,PACW-TAC
+windChill_Medford,0.014454911,PACW-TAC
+dewpoint_NWPP,0.013096489,PACW-TAC
+cloudCover_Eugene,0.010282094,PACW-TAC
+dewpoint_Portland,0.010102021,PACW-TAC
+windChill_Boise,0.010089056,PACW-TAC
+year,0.008120208,PACW-TAC
+month,0.0077213766,PACW-TAC
+heatIndex_Portland,0.00698059,PACW-TAC
+temperature_Klamath Falls,0.0067193713,PACW-TAC
+heatIndex_Spokane,0.006655765,PACW-TAC
+temperature_NWPP,0.0061353226,PACW-TAC
+temperature_Portland,0.0060337456,PACW-TAC
+cloudCover_Spokane,0.0048712133,PACW-TAC
+temperature_Eugene,0.0039393487,PACW-TAC
+cloudCover_Salt Lake City,0.0034237492,PACW-TAC
+windChill_Eugene,0.0029620891,PACW-TAC
+temperature_min_Portland,0.0027371335,PACW-TAC
+heatIndex_Eugene,0.002588112,PACW-TAC
+temperature_Reno,0.0023002618,PACW-TAC
+relativeHumidity_Tacoma,0.002082759,PACW-TAC
+heatIndex_Pendleton,0.0020815157,PACW-TAC
+cloudCover_Klamath Falls,0.002064809,PACW-TAC
+temperature_avg_Portland,0.0020323812,PACW-TAC
+dewpoint_Vancouver,0.0018828207,PACW-TAC
+windChill_Salt Lake City,0.0017899846,PACW-TAC
+cloudCover_Yakima,0.0016738584,PACW-TAC
+temperature_avg_Medford,0.0015641665,PACW-TAC
+temperature_avg_Boise,0.0014956652,PACW-TAC
+temperature_Seattle,0.0014860492,PACW-TAC
+dewpoint_Yakima,0.0014826258,PACW-TAC
+relativeHumidity_Yakima,0.0014765726,PACW-TAC
+windChill_Reno,0.0012537685,PACW-TAC
+date,0.0012373099,PACW-TAC
+heatIndex_Salt Lake City,0.0012348049,PACW-TAC
+dewpoint_Eugene,0.0012345207,PACW-TAC
+temperature_avg_Seattle,0.0011970339,PACW-TAC
+cloudCover_NWPP,0.0011885841,PACW-TAC
+relativeHumidity_NWPP,0.0011708037,PACW-TAC
+temperature_Pendleton,0.0011065392,PACW-TAC
+cloudCover_Billings,0.0011030288,PACW-TAC
+heatIndex_Boise,0.29510066,Idaho Power Company
+temperature_Boise,0.27325404,Idaho Power Company
+heatIndex_Salt Lake City,0.08323393,Idaho Power Company
+temperature_Salt Lake City,0.04657398,Idaho Power Company
+windChill_Boise,0.028463064,Idaho Power Company
+month,0.024694884,Idaho Power Company
+temperature_Vancouver,0.023506492,Idaho Power Company
+time,0.021652898,Idaho Power Company
+heatIndex_Vancouver,0.014407408,Idaho Power Company
+heatIndex_NWPP,0.0132895075,Idaho Power Company
+heatIndex_Spokane,0.0111321,Idaho Power Company
+heatIndex_Reno,0.010829326,Idaho Power Company
+day,0.009600958,Idaho Power Company
+windChill_Spokane,0.009058904,Idaho Power Company
+dewpoint_Billings,0.00854255,Idaho Power Company
+windChill_Reno,0.007447138,Idaho Power Company
+windChill_NWPP,0.0074144923,Idaho Power Company
+temperature_Reno,0.00490172,Idaho Power Company
+temperature_Spokane,0.004881132,Idaho Power Company
+year,0.004624749,Idaho Power Company
+cloudCover_Klamath Falls,0.0031075121,Idaho Power Company
+temperature_max_Boise,0.003099622,Idaho Power Company
+cloudCover_Boise,0.002889257,Idaho Power Company
+heatIndex_Pendleton,0.0027098053,Idaho Power Company
+temperature_max_Salt Lake City,0.0023422446,Idaho Power Company
+windChill_Salt Lake City,0.0023338506,Idaho Power Company
+date,0.0022190528,Idaho Power Company
+weighted_hdd_Salt Lake City,0.002142627,Idaho Power Company
+windChill_Portland,0.0020933892,Idaho Power Company
+temperature_Billings,0.0018990762,Idaho Power Company
+dewpoint_Salt Lake City,0.0018933007,Idaho Power Company
+temperature_Yakima,0.0018673654,Idaho Power Company
+dewpoint_Vancouver,0.0015551529,Idaho Power Company
+heatIndex_Billings,0.0015214153,Idaho Power Company
+dewpoint_NWPP,0.0013230396,Idaho Power Company
+temperature_avg_Spokane,0.0013111789,Idaho Power Company
+temperature_NWPP,0.001249522,Idaho Power Company
+dewpoint_Boise,0.0012093318,Idaho Power Company
+windChill_Pendleton,0.0012026514,Idaho Power Company
+weighted_cdd_Reno,0.0011208341,Idaho Power Company
+heatIndex_Yakima,0.0010899041,Idaho Power Company
+cloudCover_Reno,0.0010699403,Idaho Power Company
+temperature_avg_Medford,0.0009779132,Idaho Power Company
+heatIndex_Great Falls,0.0009413384,Idaho Power Company
+dewpoint_Pendleton,0.0009188082,Idaho Power Company
+dewpoint_Great Falls,0.00091083784,Idaho Power Company
+heatIndex_Portland,0.0009099894,Idaho Power Company
+dewpoint_Klamath Falls,0.000869782,Idaho Power Company
+heatIndex_Eugene,0.00084869645,Idaho Power Company
+temperature_Pendleton,0.0008386398,Idaho Power Company
+cloudCover_Medford,0.00082098594,Idaho Power Company
+relativeHumidity_Eugene,0.00080749777,Idaho Power Company
+temperature_Portland,0.0007995785,Idaho Power Company
+cloudCover_Billings,0.0,AVRN
+dewpoint_Billings,0.0,AVRN
+heatIndex_Billings,0.0,AVRN
+relativeHumidity_Billings,0.0,AVRN
+temperature_Billings,0.0,AVRN
+temperature_avg_Billings,0.0,AVRN
+temperature_max_Billings,0.0,AVRN
+temperature_min_Billings,0.0,AVRN
+weighted_cdd_Billings,0.0,AVRN
+weighted_hdd_Billings,0.0,AVRN
+windChill_Billings,0.0,AVRN
+windDirection_Billings,0.0,AVRN
+windSpeed_Billings,0.0,AVRN
+cloudCover_Boise,0.0,AVRN
+dewpoint_Boise,0.0,AVRN
+heatIndex_Boise,0.0,AVRN
+relativeHumidity_Boise,0.0,AVRN
+temperature_Boise,0.0,AVRN
+temperature_avg_Boise,0.0,AVRN
+temperature_max_Boise,0.0,AVRN
+temperature_min_Boise,0.0,AVRN
+weighted_cdd_Boise,0.0,AVRN
+weighted_hdd_Boise,0.0,AVRN
+windChill_Boise,0.0,AVRN
+windDirection_Boise,0.0,AVRN
+windSpeed_Boise,0.0,AVRN
+cloudCover_Eugene,0.0,AVRN
+dewpoint_Eugene,0.0,AVRN
+heatIndex_Eugene,0.0,AVRN
+relativeHumidity_Eugene,0.0,AVRN
+temperature_Eugene,0.0,AVRN
+temperature_avg_Eugene,0.0,AVRN
+temperature_max_Eugene,0.0,AVRN
+temperature_min_Eugene,0.0,AVRN
+weighted_cdd_Eugene,0.0,AVRN
+weighted_hdd_Eugene,0.0,AVRN
+windChill_Eugene,0.0,AVRN
+windDirection_Eugene,0.0,AVRN
+windSpeed_Eugene,0.0,AVRN
+cloudCover_Great Falls,0.0,AVRN
+dewpoint_Great Falls,0.0,AVRN
+heatIndex_Great Falls,0.0,AVRN
+relativeHumidity_Great Falls,0.0,AVRN
+temperature_Great Falls,0.0,AVRN
+temperature_avg_Great Falls,0.0,AVRN
+temperature_max_Great Falls,0.0,AVRN
+temperature_min_Great Falls,0.0,AVRN
+weighted_cdd_Great Falls,0.0,AVRN
+weighted_hdd_Great Falls,0.0,AVRN
+windChill_Great Falls,0.0,AVRN
+windDirection_Great Falls,0.0,AVRN
+windSpeed_Great Falls,0.0,AVRN
+cloudCover_Klamath Falls,0.0,AVRN
+windChill_Portland,0.16431624,Portland General Electric Company
+windChill_NWPP,0.11886582,Portland General Electric Company
+heatIndex_Portland,0.10423597,Portland General Electric Company
+heatIndex_NWPP,0.09449566,Portland General Electric Company
+time,0.075714864,Portland General Electric Company
+temperature_NWPP,0.06919632,Portland General Electric Company
+temperature_Portland,0.065511286,Portland General Electric Company
+temperature_Spokane,0.024109408,Portland General Electric Company
+windChill_Spokane,0.02089534,Portland General Electric Company
+day,0.016980935,Portland General Electric Company
+temperature_Yakima,0.013380557,Portland General Electric Company
+dewpoint_Portland,0.012248851,Portland General Electric Company
+temperature_Klamath Falls,0.0119235,Portland General Electric Company
+cloudCover_Eugene,0.009610751,Portland General Electric Company
+dewpoint_NWPP,0.009323457,Portland General Electric Company
+month,0.007758182,Portland General Electric Company
+heatIndex_Yakima,0.006933569,Portland General Electric Company
+dewpoint_Billings,0.0061321678,Portland General Electric Company
+windChill_Medford,0.0058138683,Portland General Electric Company
+relativeHumidity_Klamath Falls,0.005118351,Portland General Electric Company
+windChill_Salt Lake City,0.005089788,Portland General Electric Company
+temperature_Medford,0.0044551347,Portland General Electric Company
+cloudCover_Portland,0.0039706514,Portland General Electric Company
+weighted_cdd_Medford,0.0039476054,Portland General Electric Company
+heatIndex_Seattle,0.003923466,Portland General Electric Company
+heatIndex_Boise,0.0037469629,Portland General Electric Company
+temperature_Vancouver,0.003543574,Portland General Electric Company
+relativeHumidity_Yakima,0.0033316219,Portland General Electric Company
+heatIndex_Spokane,0.0032206725,Portland General Electric Company
+relativeHumidity_Eugene,0.0031779436,Portland General Electric Company
+relativeHumidity_Reno,0.0030182037,Portland General Electric Company
+year,0.0028476247,Portland General Electric Company
+heatIndex_Eugene,0.0027955675,Portland General Electric Company
+heatIndex_Tacoma,0.0025225386,Portland General Electric Company
+cloudCover_Spokane,0.0024181628,Portland General Electric Company
+temperature_Seattle,0.0023869101,Portland General Electric Company
+windChill_Eugene,0.0023300024,Portland General Electric Company
+temperature_Pendleton,0.002301845,Portland General Electric Company
+temperature_Eugene,0.0022897427,Portland General Electric Company
+cloudCover_NWPP,0.0022855413,Portland General Electric Company
+dewpoint_Vancouver,0.0022811599,Portland General Electric Company
+dewpoint_Seattle,0.0021708652,Portland General Electric Company
+windChill_Reno,0.0021116561,Portland General Electric Company
+relativeHumidity_Spokane,0.0018973661,Portland General Electric Company
+cloudCover_Billings,0.0018071288,Portland General Electric Company
+dewpoint_Yakima,0.0017578503,Portland General Electric Company
+heatIndex_Medford,0.001750364,Portland General Electric Company
+temperature_Boise,0.0016690489,Portland General Electric Company
+relativeHumidity_NWPP,0.0016337398,Portland General Electric Company
+cloudCover_Reno,0.0016318863,Portland General Electric Company
+heatIndex_Vancouver,0.0016268725,Portland General Electric Company
+relativeHumidity_Great Falls,0.0016166702,Portland General Electric Company
+cloudCover_Salt Lake City,0.0015486191,Portland General Electric Company
+windChill_NWPP,0.45057958,"City of Tacoma, Department of Public Utilities"
+windChill_Vancouver,0.09701224,"City of Tacoma, Department of Public Utilities"
+time,0.08162072,"City of Tacoma, Department of Public Utilities"
+heatIndex_NWPP,0.060355093,"City of Tacoma, Department of Public Utilities"
+windChill_Portland,0.04958094,"City of Tacoma, Department of Public Utilities"
+windChill_Spokane,0.04462363,"City of Tacoma, Department of Public Utilities"
+temperature_Seattle,0.038008764,"City of Tacoma, Department of Public Utilities"
+heatIndex_Seattle,0.03253569,"City of Tacoma, Department of Public Utilities"
+day,0.01734081,"City of Tacoma, Department of Public Utilities"
+temperature_Vancouver,0.011415234,"City of Tacoma, Department of Public Utilities"
+windChill_Seattle,0.009846924,"City of Tacoma, Department of Public Utilities"
+heatIndex_Spokane,0.006550956,"City of Tacoma, Department of Public Utilities"
+heatIndex_Pendleton,0.005616313,"City of Tacoma, Department of Public Utilities"
+dewpoint_Billings,0.0055317087,"City of Tacoma, Department of Public Utilities"
+heatIndex_Vancouver,0.00492598,"City of Tacoma, Department of Public Utilities"
+month,0.0044911318,"City of Tacoma, Department of Public Utilities"
+heatIndex_Tacoma,0.0042457306,"City of Tacoma, Department of Public Utilities"
+temperature_Spokane,0.0039522243,"City of Tacoma, Department of Public Utilities"
+dewpoint_NWPP,0.003216237,"City of Tacoma, Department of Public Utilities"
+temperature_Medford,0.0031643463,"City of Tacoma, Department of Public Utilities"
+heatIndex_Boise,0.0029655958,"City of Tacoma, Department of Public Utilities"
+temperature_Yakima,0.002668934,"City of Tacoma, Department of Public Utilities"
+heatIndex_Portland,0.002194914,"City of Tacoma, Department of Public Utilities"
+heatIndex_Yakima,0.0021345087,"City of Tacoma, Department of Public Utilities"
+temperature_avg_Spokane,0.002065463,"City of Tacoma, Department of Public Utilities"
+dewpoint_Seattle,0.0018666197,"City of Tacoma, Department of Public Utilities"
+temperature_Tacoma,0.0015506763,"City of Tacoma, Department of Public Utilities"
+dewpoint_Pendleton,0.001420962,"City of Tacoma, Department of Public Utilities"
+year,0.0013059392,"City of Tacoma, Department of Public Utilities"
+relativeHumidity_Spokane,0.0012015547,"City of Tacoma, Department of Public Utilities"
+temperature_NWPP,0.0011501223,"City of Tacoma, Department of Public Utilities"
+temperature_max_Eugene,0.0011333415,"City of Tacoma, Department of Public Utilities"
+date,0.0010832726,"City of Tacoma, Department of Public Utilities"
+temperature_min_Tacoma,0.0010239852,"City of Tacoma, Department of Public Utilities"
+windChill_Reno,0.0009966377,"City of Tacoma, Department of Public Utilities"
+dewpoint_Tacoma,0.0009950818,"City of Tacoma, Department of Public Utilities"
+dewpoint_Portland,0.0009929751,"City of Tacoma, Department of Public Utilities"
+dewpoint_Vancouver,0.0009466824,"City of Tacoma, Department of Public Utilities"
+windChill_Tacoma,0.00092200737,"City of Tacoma, Department of Public Utilities"
+cloudCover_NWPP,0.000907842,"City of Tacoma, Department of Public Utilities"
+heatIndex_Reno,0.00076736923,"City of Tacoma, Department of Public Utilities"
+cloudCover_Eugene,0.00072459044,"City of Tacoma, Department of Public Utilities"
+relativeHumidity_Yakima,0.0007119417,"City of Tacoma, Department of Public Utilities"
+cloudCover_Boise,0.00070650846,"City of Tacoma, Department of Public Utilities"
+temperature_avg_Medford,0.0006902094,"City of Tacoma, Department of Public Utilities"
+heatIndex_Eugene,0.0006565377,"City of Tacoma, Department of Public Utilities"
+cloudCover_Seattle,0.00064139854,"City of Tacoma, Department of Public Utilities"
+temperature_avg_NWPP,0.000611255,"City of Tacoma, Department of Public Utilities"
+temperature_avg_Portland,0.0006086172,"City of Tacoma, Department of Public Utilities"
+cloudCover_Vancouver,0.00059012347,"City of Tacoma, Department of Public Utilities"
+dewpoint_Medford,0.0005549424,"City of Tacoma, Department of Public Utilities"
+temperature_max_Spokane,0.00054722256,"City of Tacoma, Department of Public Utilities"
+relativeHumidity_Great Falls,0.0005423501,"City of Tacoma, Department of Public Utilities"
