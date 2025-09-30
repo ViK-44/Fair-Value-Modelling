@@ -1,0 +1,10 @@
+Run on 2025-09-24 10:58:38
+Data used: ../data/FE_AllWeath_regNWPP_2021-2025.csv and ../data/RTLoad_MIDC+NW_1Sep21-23Sep25.csv
+Features used: ['station_name', 'datetime', 'cloudCover', 'dewpoint', 'temperature', 'windDirection', 'windSpeed', '24hrMaxTempDelt', '1WMaxTempDelt', '24hrTempCDD', '24hrTempHDD', '1WTempCDD', '1WTempHDD']
+Model used: LinReg+XGBRegressor_perZone
+train date range: 2021-10-01 to 2024-12-31
+test date range: 2025-01-01 to 2025-06-30
+validation date range: 2025-07-01 to 2025-09-22
+train date range: 2021-10-01 to 2024-12-31
+test date range: 2025-01-01 to 2025-06-30
+validation date range: 2025-07-01 to 2025-09-22
